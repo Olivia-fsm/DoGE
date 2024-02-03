@@ -10,6 +10,7 @@ replace `WANDB_API_KEY` by your own authorize key.
 > bash script/doge.sh
 
 - Out-of-Domain Generalization
+
 **SlimPajama**
 > bash script/doge_ood.sh
 
