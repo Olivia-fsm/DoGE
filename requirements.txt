@@ -12,3 +12,5 @@ zstandard
 scikit-learn
 sacremoses
 tokenizers
+tfds-nightly 
+tensorflow
